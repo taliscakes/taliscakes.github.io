@@ -18,27 +18,27 @@ var subMenu1 = new Array ()
    Menu1[1] = new Array(" Cakes", "#","_top", "left")
      subMenu1[1] = new Array()
      subMenu1[1][0] = new Array (" &nbsp; &nbsp; Birthday", "http://taliscakes.github.io/pages/cakes/birthday/birthdayMain1.htm","_top")
-     subMenu1[1][1] = new Array (" &nbsp; &nbsp; Celebration", "http://taliscakes.com/pages/cakes/celebration/celebrationMain1.htm","_top")
-	 subMenu1[1][2] = new Array (" &nbsp; &nbsp; Holiday", "http://taliscakes.com/pages/cakes/holiday/holidayMain1.htm","_top")
-	 subMenu1[1][3] = new Array (" &nbsp; &nbsp; Wedding/Anniversary", "http://taliscakes.com/pages/cakes/wedding/weddingMain.htm","_top")
+     subMenu1[1][1] = new Array (" &nbsp; &nbsp; Celebration", "http://taliscakes.github.io/pages/cakes/celebration/celebrationMain1.htm","_top")
+	 subMenu1[1][2] = new Array (" &nbsp; &nbsp; Holiday", "http://taliscakes.github.io/pages/cakes/holiday/holidayMain1.htm","_top")
+	 subMenu1[1][3] = new Array (" &nbsp; &nbsp; Wedding/Anniversary", "http://taliscakes.github.io/pages/cakes/wedding/weddingMain.htm","_top")
      
      
-   Menu1[2] = new Array(" Cupcakes ", "http://taliscakes.com/pages/cupcakes/cupcakesMain1.htm","_top", "left")
+   Menu1[2] = new Array(" Cupcakes ", "http://taliscakes.github.io/pages/cupcakes/cupcakesMain1.htm","_top", "left")
      subMenu1[2] = new Array()
    
-   Menu1[3] = new Array(" Desserts ", "http://taliscakes.com/pages/desserts/dessertsMain1.htm","_top", "left")
+   Menu1[3] = new Array(" Desserts ", "http://taliscakes.github.io/pages/desserts/dessertsMain1.htm","_top", "left")
      subMenu1[3] = new Array()
 	 
-   Menu1[4] = new Array(" Latest ", "http://taliscakes.com/pages/latest.htm","_top", "left")
+   Menu1[4] = new Array(" Latest ", "http://taliscakes.github.io/pages/latest.htm","_top", "left")
      subMenu1[4] = new Array()
 	 
-   Menu1[5] = new Array(" About ", "http://taliscakes.com/pages/about.htm","_top", "left")
+   Menu1[5] = new Array(" About ", "http://taliscakes.github.io/pages/about.htm","_top", "left")
      subMenu1[5] = new Array()
    	     
    Menu1[6] = new Array(" Contact/Order ", "#","_top", "left")
      subMenu1[6] = new Array()
-	 subMenu1[6][0] = new Array ("  &nbsp; &nbsp;  Contact  ", "http://taliscakes.com/pages/contact.htm","_top")
-     subMenu1[6][1] = new Array ("  &nbsp; &nbsp;  Order  ", "http://taliscakes.com/pages/ordering.htm","_top")
+	 subMenu1[6][0] = new Array ("  &nbsp; &nbsp;  Contact  ", "http://taliscakes.github.io/pages/contact.htm","_top")
+     subMenu1[6][1] = new Array ("  &nbsp; &nbsp;  Order  ", "http://taliscakes.github.io/pages/ordering.htm","_top")
 
 	
 
