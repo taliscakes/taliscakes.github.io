@@ -17,7 +17,7 @@ var subMenu1 = new Array ()
    
    Menu1[1] = new Array(" Cakes", "#","_top", "left")
      subMenu1[1] = new Array()
-     subMenu1[1][0] = new Array (" &nbsp; &nbsp; Birthday", "http://taliscakes.com/pages/cakes/birthday/birthdayMain1.htm","_top")
+     subMenu1[1][0] = new Array (" &nbsp; &nbsp; Birthday", "http://taliscakes.github.io/pages/cakes/birthday/birthdayMain1.htm","_top")
      subMenu1[1][1] = new Array (" &nbsp; &nbsp; Celebration", "http://taliscakes.com/pages/cakes/celebration/celebrationMain1.htm","_top")
 	 subMenu1[1][2] = new Array (" &nbsp; &nbsp; Holiday", "http://taliscakes.com/pages/cakes/holiday/holidayMain1.htm","_top")
 	 subMenu1[1][3] = new Array (" &nbsp; &nbsp; Wedding/Anniversary", "http://taliscakes.com/pages/cakes/wedding/weddingMain.htm","_top")
