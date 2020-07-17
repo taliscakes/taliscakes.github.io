@@ -1,0 +1,4 @@
+- add alt desciptions to the thumbnails describing them. For instance : "GOlf Ball Cupcake"
+- use rollover images?
+- change headlines to graphic Market font.
+- add numbers to next arrows
