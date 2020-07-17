@@ -6,12 +6,12 @@
 // Written by Rik Comery. www.ricom.co.uk, support at www.ricom.co.uk           
 // All rights reserved.                                         
 // Featured in the SimplytheBest DHTML Scripts Library at http://simplythebest.net/scripts/
-//subMenu1[1][3] = new Array ("Wedding/Anniversary", "http://taliscakes.com/pages/cakes/wedding/weddingMain.htm","_top")
+//subMenu1[1][3] = new Array ("Wedding/Anniversary", "http://taliscakes.github.io/pages/cakes/wedding/weddingMain.htm","_top")
 //  MENU ITEMS - DUPLICATE THIS ENTIRE SECTION FOR MULTIPLE MENUS.   
 var Menu1 = new Array ()
 var subMenu1 = new Array ()
 
-   Menu1[0] = new Array(" Home ", "http://taliscakes.com/index.html","_top", "left")
+   Menu1[0] = new Array(" Home ", "http://taliscakes.github.io/index.html","_top", "left")
      subMenu1[0] = new Array()
 	 
    
