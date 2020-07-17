@@ -1,0 +1,66 @@
+body {
+	background-color: #FFFFFF;
+}
+table {
+	float: none;
+	background-color: #CCCC99;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+td {
+	font-style: italic;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+td#top {
+	background-image: url(pinkAndWhiteVerticalStripes.gif);
+	width: 807px;
+	height: 100px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+td#navBar {
+	background-color:#FFFFFF;
+	width: 807px;
+	height: 27px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+td#main {
+	background-image: url(pinkAndWhiteVerticalStripes.gif);
+	width: 807px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: large;
+}
+td#innerMain {
+	background-color: #FFFFFF;
+	width: 645px;
+	height: 521px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+}
+#click {
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+.highlight {
+	color: #F20090;
+	font-size: 18px;
+}
+.currentPage {
+	font-size: 18px;
+	color: #993100;
+}

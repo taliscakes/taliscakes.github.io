@@ -1,0 +1,38 @@
+body {
+}
+#header {
+	position:absolute;
+	left:364px;
+	top:50px;
+	width:726px;
+	height:127px;
+	z-index:1;
+	visibility: visible;
+	background-color: #FFFFFF;
+}
+#navBar {
+	font-style: italic;
+}
+
+#container {
+	position:absolute;
+	left:365px;
+	top:222px;
+	width:727px;
+	height:71px;
+	z-index:2;
+	visibility: visible;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+#footer {
+	position:absolute;
+	left:367px;
+	top:300px;
+	width:724px;
+	height:503px;
+	z-index:6;
+	visibility: visible;
+	background-color: #FFFFFF;
+	border: 10;
+}
